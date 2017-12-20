@@ -9,6 +9,8 @@ the command line.
 Similarly if you need to configure the server to negotiate a proxy, you will need to includes
 the configuration commands into the ENTRYPOINT
 
+There is an automated build for this repository in [DockerHub](https://cloud.docker.com/app/stephenconnolly/repository/docker/stephenconnolly/jetbrains-licence-server-docker)
+
 ## Build
 
 ```
